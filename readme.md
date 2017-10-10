@@ -1,7 +1,7 @@
 ## Synopsis
 
-Collecte des Open Data Transillien dans un serveur mongoDB
-Permet à un utilisateur de formuler un nombre réduit de requêtes simples sur cette base de données.
+##### Collecte des Open Data Transillien dans un serveur mongoDB.
+##### Permet à un utilisateur de formuler un nombre réduit de requêtes simples sur cette base de données.
 
 ## Installation
 Start Nginx & MongoDB
