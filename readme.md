@@ -17,5 +17,7 @@ git clone https://github.com/lepetitdevfr/TPMongo.git .
 cd TPMongo
 node server.js
 ```
-[[https://github.com/lepetitdevfr/TPMongo/blob/master/ligneA.png|alt=octocat]]
-[[https://github.com/lepetitdevfr/TPMongo/blob/master/ligneC.png|alt=octocat]]
+
+![alt text](https://github.com/lepetitdevfr/TPMongo/blob/master/ligneA.png)
+
+![alt text](https://github.com/lepetitdevfr/TPMongo/blob/master/ligneC.png)
